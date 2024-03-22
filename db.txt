@@ -1,0 +1,8 @@
+user=root
+password=
+
+database name:mystudents
+database tabel :
+    1-users:id,username,emailid
+    2-students:id , fname ,lname
+    
